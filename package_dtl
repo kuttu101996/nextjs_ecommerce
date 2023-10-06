@@ -1,0 +1,9 @@
+joi - To validate schema
+strip - for checkout page and backend api routes 
+@stripe/stripe-js - client side stripe packagee
+@headlessui/react - To create some components like models
+
+
+Steps :-
+1. For global state management we are using Context api set it up.
+2. creating the main layout page inside which we will have the common navbar & children (for all other components).
